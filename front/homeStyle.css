@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
